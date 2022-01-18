@@ -1,7 +1,6 @@
 - 👋 @TZZXD
 - 👀 A FE developer
-- Focus on Web3 & sol for now
-- A good CS:GO player
+- Focus on Web3 & solidity for now
 
 <!---
 TZZXD/TZZXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
